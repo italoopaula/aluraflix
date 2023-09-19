@@ -1,0 +1,7 @@
+.footer {
+    background-color: #000000;
+    border-top: 2px solid #2a74e4;
+    display: flex;
+    justify-content: center;
+    padding: 2rem 0;
+}

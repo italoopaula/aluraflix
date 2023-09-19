@@ -1,0 +1,22 @@
+button {
+    padding: .5rem 1rem;
+    border-radius: 4px;
+}
+
+.outline {
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    color: #ffffff;
+}
+
+.save {
+    background-color: #2a7ae4;
+    border: none;
+    color: #ffffff;
+}
+
+.clean {
+    background-color: #9e9e9e;
+    border: none;
+    color: #000000;
+}
